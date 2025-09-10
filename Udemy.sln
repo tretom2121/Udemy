@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{FC656339-8F87-4C50-A80A-413BF9363362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SentimentAnalysis\SentimentAnalysis.csproj", "{BF7B376A-C149-4577-8B18-8669D21FEF7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FC656339-8F87-4C50-A80A-413BF9363362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC656339-8F87-4C50-A80A-413BF9363362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC656339-8F87-4C50-A80A-413BF9363362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
