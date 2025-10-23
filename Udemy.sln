@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageClassification", "Imag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression", "Regression\Regression.csproj", "{A347975A-5B53-4D74-8B31-E1DD639FF96B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForecastingAI", "ForecastingAI\ForecastingAI.csproj", "{6E745A8E-D756-44E5-B4B2-384E7C5C78AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{A347975A-5B53-4D74-8B31-E1DD639FF96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A347975A-5B53-4D74-8B31-E1DD639FF96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A347975A-5B53-4D74-8B31-E1DD639FF96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E745A8E-D756-44E5-B4B2-384E7C5C78AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E745A8E-D756-44E5-B4B2-384E7C5C78AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E745A8E-D756-44E5-B4B2-384E7C5C78AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E745A8E-D756-44E5-B4B2-384E7C5C78AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
