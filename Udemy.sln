@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SentimentAnalysis\SentimentAnalysis.csproj", "{BF7B376A-C149-4577-8B18-8669D21FEF7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageClassification", "ImageClassification\ImageClassification.csproj", "{95EF9D81-AFB7-431F-9547-986B769FB60E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7B376A-C149-4577-8B18-8669D21FEF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EF9D81-AFB7-431F-9547-986B769FB60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EF9D81-AFB7-431F-9547-986B769FB60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EF9D81-AFB7-431F-9547-986B769FB60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EF9D81-AFB7-431F-9547-986B769FB60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
